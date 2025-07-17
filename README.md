@@ -22,7 +22,8 @@ I have used the different econometrics models for this analyzing such as ADF, AR
 Data analysis implemented using R packages (tidyr, rmgarch, vars, dplyr, readxl,forecast, rugarch, tsDyn, tseries, MSwM)
 
 ## Data Description:
-### Source: (Yahoo Finance,  01/11/2019- 31/10/2024)
+### Source: 
+(Yahoo Finance,  01/11/2019- 31/10/2024)
 
 ### Stock market indices:
 Germany: DAX \
