@@ -4,8 +4,8 @@ This project explores the realtionship between **foreign exchange rate fluctuati
 
 
 ## Questions:
-1. How do exchange rate fluctuations affect stock market indices?\
-2. How do the volatility patterns and correlations between exchange rates and stock indices looks like?\
+1. How do exchange rate fluctuations affect stock market indices?
+2. How do the volatility patterns and correlations between exchange rates and stock indices looks like?
 3. Under different economic regimes, how do these relationships differ?
 
 
@@ -17,7 +17,7 @@ Potential future implications especially in the Modern Trade war era.
 
 
 ## Methodology & Models:
-I have used the different econometrics models for this analyzing such as ADF, ARMA, ACF & PACF, GARCH, DCC-GARCH, VAR, Markov-Switching Models.\
+I have used the different econometrics models for this analyzing such as ADF, ARMA, ACF & PACF, GARCH, DCC-GARCH, VAR, Markov-Switching Models.
 
 Data analysis implemented using R packages (tidyr, rmgarch, vars, dplyr, readxl,forecast, rugarch, tsDyn, tseries, MSwM)
 
