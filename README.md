@@ -59,8 +59,8 @@ Modelling Challenges./
 Emerging Markets vs. Developed Markets./
 
 
-## Thanks you so much for reading this!
-## Have a good time ahead! 
+#### Thanks you so much for reading this!
+#### Have a good time ahead! 
 
 
 ## Contact
