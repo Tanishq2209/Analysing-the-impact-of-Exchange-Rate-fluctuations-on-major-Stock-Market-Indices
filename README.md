@@ -40,8 +40,8 @@ Singapore: SGX NIKKEI 225/
 ## Repository Structure
 
 ```
-├── Analysing the impact of Exchange Rate fluctuations on major Stock Market Indices.Rmd      # Main R Markdown file for the full analysis and report
-├── Analysing the impact of Exchange Rate fluctuations on major Stock Market Indices.ppt     # Rendered power point presentation (output and results presented of R Markdown)
+├── Main R code.Rmd      # Main R Markdown file for the full analysis
+├── Main presentation file.pptx     # Rendered power point presentation (output and results presented of R Markdown)
 └── README.md               # This file
 ```
 ## Findings/Summary:
