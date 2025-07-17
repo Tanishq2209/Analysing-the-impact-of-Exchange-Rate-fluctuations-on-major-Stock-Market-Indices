@@ -67,5 +67,5 @@ Emerging Markets vs. Developed Markets.
 ## Contact
 **Tanishq Gupta**
 MSc Quantitative Finance\
-E: [gu.tanishq@gmail.com](mailto:gu.tanishq@gmail.com) \
-LinkedIn: linkedin.com/in/tanishq-gupta 
+Email ID: [gu.tanishq@gmail.com](mailto:gu.tanishq@gmail.com) \
+LinkedIn: [linkedin.com/in/tanishq-gupta ](https://www.linkedin.com/in/tanishq-gupta-443197200/)
