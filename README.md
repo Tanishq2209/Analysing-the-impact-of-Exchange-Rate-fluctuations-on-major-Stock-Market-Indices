@@ -41,9 +41,9 @@ Singapore: SGX NIKKEI 225
 ## Repository Structure
 
 ```
-├── Main R code.Rmd      # Main R Markdown file for the full analysis
+├── Main R code.Rmd                 # Main R Markdown file for the full analysis
 ├── Main presentation file.pptx     # Rendered power point presentation (output and results presented of R Markdown)
-└── README.md               # This file
+└── README.md                       # This file
 ```
 ## Findings/Summary:
 Currency-Market Linkages: INR-NIFTY 50 and SGD-SGX \
